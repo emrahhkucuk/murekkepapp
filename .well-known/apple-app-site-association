@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FYPPANV6FM.com.enesberke.murekkep",
+        "paths": [
+          "/article/*",
+          "/author/*",
+          "/category/*",
+          "/publication/*"
+        ]
+      }
+    ]
+  }
+}
