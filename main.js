@@ -1,3 +1,8 @@
+// Deep link redirect — /article/slug etc. → App Store
+if (window.location.pathname !== '/' && window.location.pathname !== '/privacy.html' && window.location.pathname !== '/terms.html') {
+  window.location.replace('https://apps.apple.com/app/m%C3%Bcrekkep/id6760975752');
+}
+
 // Scroll animations
 const observer = new IntersectionObserver(
   (entries) => {
